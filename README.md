@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm an Ecuadorian Computer Science undergraduate student. I like learning new tools and languages every day, develop small programs and attend tech conferences :D<br><br>    🔭 I’m currently working on a Laravel project to enhance my skills.<br><br>    🌱 I’m currently learning data algorithms in Python, laravel, php, and bootstrap.<br><br>    📫 How to reach me via email: paulabenalcazar7lp@gmail.com</p>
+<p align="left">I'm an Ecuadorian Computer Science undergraduate student. I like learning new tools and languages every day, develop small programs and attend tech conferences :D<br><br>    🔭 I’m currently working on a Laravel project to enhance my skills.<br><br>    🌱 I’m currently learning data algorithms in Python. Also laravel, php, and bootstrap.<br><br>    📫 How to reach me via email: paulabenalcazar7lp@gmail.com</p>
 
 ###
 
