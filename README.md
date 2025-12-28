@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hi, I'm Paula Benalcázar! 👋🏼</h1>
+<h1 align="left">Hi, I'm Paula Benalcázar! </h1>
 
 ###
 
-<p align="left">I'm an Ecuadorian Computer Science undergraduate student. I like learning new tools and languages every day, develop small programs and attend tech conferences :D<br><br>    🔭 I’m currently working on a Laravel project to enhance my skills.<br><br>    🌱 I’m currently learning data algorithms in Python. Also laravel, php, and bootstrap.<br><br>    📫 How to reach me via email: paulabenalcazar7lp@gmail.com</p>
+<p align="left">I'm an Ecuadorian Computer Science undergraduate student with experience working on Java, Python, Angular, Express. I like learning new tools and languages every day, develop small programs and attend tech conferences :D<br><br> 📫 How to reach me via email: paulabenalcazar7lp@gmail.com</p>
 
 ###
 
@@ -48,21 +48,6 @@
 </div>
 
 ###
-
-<h4 align="left">Some other facts about me:</h4>
-
-###
-
-<ul align="left" style="line-height: 1.8;">
-  <li>Whenever I do something wrong in a project, I try for several days until it is done perfectly</li>
-  <li>I love listening to music, especially One Direction</li>
-  <li>Always been a fan of Detroit Become Human</li>
-  <li>Book enthusiast</li>
-  <li>I would love to learn new languages (programming and spoken) c:</li>
-</ul>
-
-###
-
 <h2 align="left">📞 Connect with me via:</h2>
 
 ###
