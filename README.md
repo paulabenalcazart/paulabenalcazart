@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi, I'm Paula Benalcázar </h1>
+<h1 align="center">Hi, I'm Paula Benalcázar </h1>
 
 ###
 
