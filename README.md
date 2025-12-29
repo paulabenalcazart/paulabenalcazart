@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm an Ecuadorian Computer Science undergraduate student with experience working on Java, Python, Angular, Express. I like learning challenging topics, develop projects and attend tech conferences :D<br><br> 📫 How to reach me via email: paulabenalcazar7lp@gmail.com</p>
+<p align="left">I'm an Ecuadorian Computer Science undergraduate student with experience working on Java, Python, Angular, Express. I like learning challenging topics, develop projects and attend tech conferences :D<br><br>
 
 ###
 
